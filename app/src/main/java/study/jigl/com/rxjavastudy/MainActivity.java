@@ -3,6 +3,8 @@ package study.jigl.com.rxjavastudy;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import study.jigl.com.rxjavastudy.demo.RxjavaDemo2;
+
 
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
@@ -17,6 +19,18 @@ public class MainActivity extends AppCompatActivity {
 //        RxjavaDemo1.getInstance().runUseChainStyle();
 //        RxjavaDemo1.getInstance().executeByConsumer();
 //        RxjavaDemo1.getInstance().interpetSendUseDispose();
+
+//        RxjavaDemo2.getInstance().useJust();
+//        RxjavaDemo2.getInstance().useFromArray();
+//        RxjavaDemo2.getInstance().useFromIterable();
+//        RxjavaDemo2.getInstance().useDefer();
+//        RxjavaDemo2.getInstance().useTimer();
+//        RxjavaDemo2.getInstance().useInterval();
+//        RxjavaDemo2.getInstance().useIntervalRange();
+//        RxjavaDemo2.getInstance().useRange();
+//        RxjavaDemo2.getInstance().useRangeLong();
+
+
 
     }
 
