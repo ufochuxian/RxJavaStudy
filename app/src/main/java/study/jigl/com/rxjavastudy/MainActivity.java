@@ -3,6 +3,7 @@ package study.jigl.com.rxjavastudy;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import study.jigl.com.rxjavastudy.demo.RetrofitDemo;
 import study.jigl.com.rxjavastudy.demo.RxjavaDemo2;
 import study.jigl.com.rxjavastudy.demo.RxjavaDemo3;
 
@@ -31,7 +32,9 @@ public class MainActivity extends AppCompatActivity {
 //        RxjavaDemo2.getInstance().useRange();
 //        RxjavaDemo2.getInstance().useRangeLong();
 
-        RxjavaDemo3.getInstance().pollingRequest();
+//        RxjavaDemo3.getInstance().pollingRequest();
+
+        RetrofitDemo.getInstance().requestByPost();
 
 
 

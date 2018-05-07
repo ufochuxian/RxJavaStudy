@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/438c593d13cc8b33161d54b3ac2360df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ea3bd2d52ae48b3ae99af65e13f6f204/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/chen/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/cef67fe5373d4a5028579c205b2ebdd1/AndroidManifest.xml:15:1-21:12
+MERGED from [com.jakewharton.timber:timber:4.1.2] /Users/chen/.gradle/caches/transforms-1/files-1.1/timber-4.1.2.aar/d9f61c6bd1ecb95264ff94494ba812ef/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8740f2fff47b864e90679ff8efc20bbf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c4df489dd15f424faf149fa31059619d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ab90aeaac658f250151a02a190573fce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f4e37b08eb70fcf666c09cefed7f73a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/700d0708234e5460206242dc23286ec7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b3a1b6aa51668d33570d7d6aef83df9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/226228f6c02049f96cc96a64d7a187d2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e081f2d1d2d51655de1f5f454db92546/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5175009e10e5c6801a7f68e22f064d81/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/22f2dbc490046f9b9a262fd36582d912/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ea3bd2d52ae48b3ae99af65e13f6f204/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ea3bd2d52ae48b3ae99af65e13f6f204/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.1.2] /Users/chen/.gradle/caches/transforms-1/files-1.1/timber-4.1.2.aar/d9f61c6bd1ecb95264ff94494ba812ef/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.1.2] /Users/chen/.gradle/caches/transforms-1/files-1.1/timber-4.1.2.aar/d9f61c6bd1ecb95264ff94494ba812ef/AndroidManifest.xml:8:5-20
+	android:supportsRtl
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:13:9-40
+activity#study.jigl.com.rxjavastudy.MainActivity
+ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/438c593d13cc8b33161d54b3ac2360df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/438c593d13cc8b33161d54b3ac2360df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ea3bd2d52ae48b3ae99af65e13f6f204/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ea3bd2d52ae48b3ae99af65e13f6f204/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/chen/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/cef67fe5373d4a5028579c205b2ebdd1/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/chen/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/cef67fe5373d4a5028579c205b2ebdd1/AndroidManifest.xml:19:5-43
+MERGED from [com.jakewharton.timber:timber:4.1.2] /Users/chen/.gradle/caches/transforms-1/files-1.1/timber-4.1.2.aar/d9f61c6bd1ecb95264ff94494ba812ef/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.timber:timber:4.1.2] /Users/chen/.gradle/caches/transforms-1/files-1.1/timber-4.1.2.aar/d9f61c6bd1ecb95264ff94494ba812ef/AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8740f2fff47b864e90679ff8efc20bbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8740f2fff47b864e90679ff8efc20bbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c4df489dd15f424faf149fa31059619d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c4df489dd15f424faf149fa31059619d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ab90aeaac658f250151a02a190573fce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ab90aeaac658f250151a02a190573fce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f4e37b08eb70fcf666c09cefed7f73a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f4e37b08eb70fcf666c09cefed7f73a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/700d0708234e5460206242dc23286ec7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/700d0708234e5460206242dc23286ec7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b3a1b6aa51668d33570d7d6aef83df9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b3a1b6aa51668d33570d7d6aef83df9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/226228f6c02049f96cc96a64d7a187d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/226228f6c02049f96cc96a64d7a187d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e081f2d1d2d51655de1f5f454db92546/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e081f2d1d2d51655de1f5f454db92546/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5175009e10e5c6801a7f68e22f064d81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5175009e10e5c6801a7f68e22f064d81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/22f2dbc490046f9b9a262fd36582d912/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/22f2dbc490046f9b9a262fd36582d912/AndroidManifest.xml:20:5-44
+INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chen/Documents/GitHub/RxJavaStudy2/app/src/main/AndroidManifest.xml

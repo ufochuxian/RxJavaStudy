@@ -59,7 +59,8 @@ public class RxjavaDemo3 {
                         //创建网络请求接口的实例
                         GetRequest_Interface request = retrofit.create(GetRequest_Interface.class);
 
-                        //采用Observable <...>形式，对网络请求进行封装
+                        //采用Observable <...>形式，对网络请求进行封装,这里将request.getCall()转换成了rxJava的Observable，这里就可以使用
+                        //RxJava的形式来处理请求和请求的结果了
                         Observable<Translation> observable = request.getCall();
 
                         observable.subscribeOn(Schedulers.io()) //切换到io线程,发送网络请求
