@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "name": "小明",
+      "id": 1,
+      "mSources": [
+        {
+          "sourceId": 1,
+          "name": "math",
+          "score": 50
+        },
+        {
+          "sourceId": 2,
+          "name": "english",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "name": "小王",
+      "id": 2,
+      "mSources": [
+        {
+          "sourceId": 1,
+          "name": "math",
+          "score": 90
+        },
+        {
+          "sourceId": 2,
+          "name": "english",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "name": "小张",
+      "id": 3,
+      "mSources": [
+        {
+          "sourceId": 1,
+          "name": "math",
+          "score": 80
+        },
+        {
+          "sourceId": 2,
+          "name": "english",
+          "score": 90
+        }
+      ]
+    }
+  ]
+}

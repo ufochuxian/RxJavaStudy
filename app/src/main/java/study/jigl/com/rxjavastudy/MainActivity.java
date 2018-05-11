@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import study.jigl.com.rxjavastudy.demo.RetrofitDemo;
 import study.jigl.com.rxjavastudy.demo.RxjavaDemo2;
 import study.jigl.com.rxjavastudy.demo.RxjavaDemo3;
+import study.jigl.com.rxjavastudy.demo.RxjavaDemo4;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -34,7 +35,12 @@ public class MainActivity extends AppCompatActivity {
 
 //        RxjavaDemo3.getInstance().pollingRequest();
 
-        RetrofitDemo.getInstance().requestByPost();
+//        RetrofitDemo.getInstance().requestByPost();
+
+//        RxjavaDemo4.getInstance().useMap();
+//        RxjavaDemo4.getInstance().useFlatMap();
+//        RxjavaDemo4.getInstance().useConcatMap();
+        RxjavaDemo4.getInstance().useFlatMapWithScene();
 
 
 
