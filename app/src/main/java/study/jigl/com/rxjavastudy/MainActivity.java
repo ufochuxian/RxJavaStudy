@@ -7,6 +7,7 @@ import study.jigl.com.rxjavastudy.demo.RetrofitDemo;
 import study.jigl.com.rxjavastudy.demo.RxjavaDemo2;
 import study.jigl.com.rxjavastudy.demo.RxjavaDemo3;
 import study.jigl.com.rxjavastudy.demo.RxjavaDemo4;
+import study.jigl.com.rxjavastudy.demo.RxjavaDemo5;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -40,7 +41,22 @@ public class MainActivity extends AppCompatActivity {
 //        RxjavaDemo4.getInstance().useMap();
 //        RxjavaDemo4.getInstance().useFlatMap();
 //        RxjavaDemo4.getInstance().useConcatMap();
-        RxjavaDemo4.getInstance().useFlatMapWithScene();
+//        RxjavaDemo4.getInstance().useFlatMapWithScene();
+
+//        RxjavaDemo5.getInstance().useMerge();
+//        RxjavaDemo5.getInstance().useWithOutConcatDelayError();
+//        RxjavaDemo5.getInstance().useWithConcatDelayError();
+//        RxjavaDemo5.getInstance().useZip();
+//        RxjavaDemo5.getInstance().useCombindLatest();
+//        RxjavaDemo5.getInstance().useReduce();
+//        RxjavaDemo5.getInstance().useCollect();
+
+          RxjavaDemo5.getInstance().useCount();
+
+
+
+
+
 
 
 
